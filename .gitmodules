@@ -1,0 +1,6 @@
+[submodule "standfire-backend"]
+	path = standfire-backend
+	url = git@github.com:SERDP-Closing-Gaps/standfire-backend.git
+[submodule "standfire-web-client"]
+	path = standfire-web-client
+	url = git@github.com:SERDP-Closing-Gaps/standfire-web-client.git
